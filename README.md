@@ -7,7 +7,8 @@ The World Happiness Report is a landmark survey of the state of global happiness
 
 #### Datasets:
 The “world_happiness.zip” file on Blackboard contains happiness data for different countries from year 2015 to year 2019. We will treat data of year 2015 to year 2018 as the training set, and year 2019 data as the test set. Description of the data fields can be found on the FAQ page of World Happiness Report: https://worldhappiness.report/faq/
-EDA (10 points):
+
+#### EDA (10 points):
 Get familiar with the dataset and decide what features and observations will be useful. Make good use of visualizations. Specific tasks may include but are not limited to:
 - Merge and clean the data. Explain what you did.
 - What are the central tendencies of happiness score over the years? Did they increase or
